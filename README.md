@@ -1,0 +1,1 @@
+Contains projects from the Devtern App Development Internship. Tasks: 1) BMI Calculator: Android app for calculating BMI. 2) StopWatchApp: Time-tracking app for managing tasks. 3) SimpleNotesApp: Note-taking app built with Jetpack Compose.
